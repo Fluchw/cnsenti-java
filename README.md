@@ -1,6 +1,6 @@
 # cnsenti_java
 基于https://github.com/hiDaDeng/cnsenti 的修改,仅实现了 emotion_count功能
-
+修改用于毕业设计方便在flink中使用
 
 用到的依赖
 
